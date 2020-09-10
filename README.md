@@ -1,6 +1,7 @@
 # COVID-19 Tracker
 
 This app was built using React JS and hosted in Firebase.
+
 Link to the hosted app: [https://covid19-tracker-e2584.web.app/](https://covid19-tracker-e2584.web.app/)
 
 ## Available Scripts
